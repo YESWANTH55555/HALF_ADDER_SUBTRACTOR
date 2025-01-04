@@ -67,4 +67,4 @@ Figure -02 HALF Subtractor
 
 
 ### RESULT:
-Designed and verified the half adder & half substractor circuit and its truth table in Quartus II using verilog programming sucessfully
+Designed and verified the half adder & half substractor circuit and its truth table in Quartus II using verilog programming sucessfully 
