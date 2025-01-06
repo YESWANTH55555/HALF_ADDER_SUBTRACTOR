@@ -60,7 +60,10 @@ Figure -02 HALF Subtractor
 ![Logic diagram exp 3](https://github.com/user-attachments/assets/ed497654-560b-45da-87c8-d2f4cf172779)
 
 ### TIMING DIAGRAM:
-![wave form exp 3](https://github.com/user-attachments/assets/ddac0982-f034-4f6a-913a-9cf629c56614)
+### HALF ADDER:
+![Screenshot_20250106-135028 Chrome](https://github.com/user-attachments/assets/a07545d9-d778-4e48-bf12-121b691dd9eb)
+### HALF SUBSTRACTOR:
+![Screenshot_20250106-135116 Chrome](https://github.com/user-attachments/assets/90a95703-cf9c-4c1c-906a-280b3142eec7)
 
 
 ### RESULT:
